@@ -2,7 +2,7 @@
 
 An Electron desktop app for batch-downloading all your Mixamo animations (FBX) and animated GIF previews, with a built-in Mixamo browser for easy login.
 
-![Mixamo Downloader](https://img.shields.io/badge/Electron-Desktop-blue) ![Node.js](https://img.shields.io/badge/Node.js-20%2B-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Mixamo Downloader](https://img.shields.io/badge/Electron-Desktop-blue) ![Node.js](https://img.shields.io/badge/Node.js-20%2B-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![Release](https://img.shields.io/badge/Release-v1.0.0-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ![Mixamo Downloader screenshot](docs/screenshot.png)
 
