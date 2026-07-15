@@ -1,0 +1,13 @@
+node_modules/
+
+# Local tooling / private notes (not for public repo)
+
+# Output / runtime artifacts
+Animations/
+animations-cache.json
+animation-library.json
+animation-library.csv
+LIBRARY_README.md
+download.log
+pack-debug.json
+*.log
